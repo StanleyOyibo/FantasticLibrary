@@ -15,12 +15,11 @@ namespace FantasticLibrary
         {
             if (!disposedValue)
             {
-<<<<<<< HEAD
+
                 if (disposing)
                 {
                     // TODO: dispose managed state (managed objects).
                 }
-=======
                
                /*  //Star TODO: Ignore this block for now
                if (disposing)
@@ -29,7 +28,6 @@ namespace FantasticLibrary
                 }
                 
                 */
->>>>>>> 2f65c9f6bf218b3d704c4a743fe0626f186db4ef
 
                 // TODO: free unmanaged resources (unmanaged objects) and override a finalizer below.
                 // TODO: set large fields to null.
