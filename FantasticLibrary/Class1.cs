@@ -22,7 +22,7 @@ namespace FantasticLibrary
                 }
 
                 //Fix Merge 1
-                //Fix Merge 2
+                //Fix Merge 2.
                 /*  //Star TODO: Ignore this block for now
                 if (disposing)
                  {
