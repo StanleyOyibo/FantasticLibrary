@@ -20,14 +20,16 @@ namespace FantasticLibrary
                 {
                     // TODO: dispose managed state (managed objects).
                 }
-               
-               /*  //Star TODO: Ignore this block for now
-               if (disposing)
-                {
-                    // TODO: dispose managed state (managed objects).
-                }
-                
-                */
+
+                //Fix Merge 1
+                //Fix Merge 2
+                /*  //Star TODO: Ignore this block for now
+                if (disposing)
+                 {
+                     // TODO: dispose managed state (managed objects).
+                 }
+
+                 */
 
                 // TODO: free unmanaged resources (unmanaged objects) and override a finalizer below.
                 // TODO: set large fields to null.
