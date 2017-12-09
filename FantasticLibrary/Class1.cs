@@ -23,6 +23,10 @@ namespace FantasticLibrary
 
                 //Fix Merge 1
                 //Fix Merge 2.
+                // Fix for Rebase 1
+                // Fix for Rebase 2 
+
+                // Fix for Rebase 3 -- Continue work in Master Branch
                 /*  //Star TODO: Ignore this block for now
                 if (disposing)
                  {
